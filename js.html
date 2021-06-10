@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Running Javascript</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <!-- Conditional 2 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals -->
+    <p id="conditional2"></p>
+    <script type="text/javascript">
+    let score = prompt('Enter score here:', 75);
+    let machineActive = true;
+
+    // Add your code here
+
+    let response = (score < 0 || score > 100) ? "This is not possible, an error has occurred." :
+        score < 20 ? "That was a terrible score — total fail!" :
+        score < 40 ? "You know some things, but it's a pretty bad score. Needs improvement." :
+        score < 70 ? "You did a passable job, not bad!" :
+        score < 90 ? "That's a great score, you really know your stuff." :
+        "What an amazing score! Did you cheat? Are you for real?";
+
+    if (machineActive != true) alert("Please switch the machine on!");
+    section = document.getElementById('conditional2');
+    // Don't edit the code below here!
+
+    section.innerHTML = ' ';
+    let para1 = document.createElement('p');
+    let para2 = document.createElement('p');
+
+    para1.textContent = `Your score is ${ score }`;
+    para2.textContent = response;
+
+    section.appendChild(para1);
+    section.appendChild(para2);
+    </script>
+    <script type="text/javascript">
+    let result;
+
+    if (a + b < 4) {
+        result = 'Below';
+    } else {
+        result = 'Over';
+    }
+    // rewrite
+    let result = (a + b < 4) ? 'Below' : 'Over';
+    
+    ////////
+    let message;
+
+    if (login == 'Employee') {
+        message = 'Hello';
+    } else if (login == 'Director') {
+        message = 'Greetings';
+    } else if (login == '') {
+        message = 'No login';
+    } else {
+        message = '';
+    }
+    // rewrite
+    let message = (login == 'Employee') ? 'Hello' :
+                  (login == 'Director') ? 'Greetings' :
+                  (login == '') ? 'No login' :
+                  '';
+
+    </script>
+</body>
+
+</html>
