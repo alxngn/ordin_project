@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Functions: Task 2</title>
+    <style>
+    table {
+        border: 1px solid black;
+        width: 100%;
+    }
+
+    input {
+        width: 60px;
+    }
+
+    p {
+        color: purple;
+        margin: 0.5em 0;
+        font-size: 30px;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    canvas {
+        border: 1px solid black;
+    }
+    </style>
+    <link rel="stylesheet" href="../styles.css" />
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>x</th>
+            <th>y</th>
+            <th>width</th>
+            <th>height</th>
+            <th>colour</th>
+        <tr>
+            <th><input id="x" class="x"></th>
+            <th><input id="y" class="y"></th>
+            <th><input id="width" class="width"></th>
+            <th><input id="height" class="height"></th>
+            <th><input id="colour" class="colour"></th>
+        </tr>
+    </table>
+    <br>
+    <section class="preview">
+    </section>
+    <canvas width="480" height="320">
+    </canvas>
+    <button>Show me</button>
+</body>
+<script>
+let canvas = document.querySelector('canvas');
+let ctx = canvas.getContext('2d');
+
+
+const button = document.querySelector('button');
+
+
+// Add your code here
+function rectangle(x, y, w, h, c) {
+    ctx.beginPath();
+    ctx.lineWidth = 3;
+    ctx.strokeStyle = c;
+    ctx.rect(x, y, w, h);
+    ctx.stroke();
+}
+
+button.onclick = function() {
+
+    const x = document.querySelector('.x').value;
+    const y = document.querySelector('.y').value;
+    const w = document.querySelector('.width').value;
+    const h = document.querySelector('.height').value;
+    const c = document.querySelector('.colour').value;
+
+    rectangle(x, y, w, h, c);
+}
+
+// Don't edit the code below here!
+
+const section = document.querySelector('section');
+</script>
+
+</html>
