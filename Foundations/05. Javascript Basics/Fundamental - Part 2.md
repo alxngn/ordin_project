@@ -50,14 +50,14 @@
     > }
 - What is the syntax for a switch statement?
   - > switch (expression) {  
-   > case value1:  
-   >   ...  
-   >   break;  
-   > case value2:  
-   >   ...  
-   >   break;  
-   > default:  
-   > }
+    > case value1:  
+    >   ...  
+    >   break;  
+    > case value2:  
+    >   ...  
+    >   break;  
+    > default:  
+    > }
 - What is the syntax for a ternary operator?
   - (condition) ? true : false
 - What is nesting?
