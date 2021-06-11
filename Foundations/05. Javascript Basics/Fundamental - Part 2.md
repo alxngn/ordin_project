@@ -43,20 +43,20 @@
 - What are conditionals?
   - if, else if, else, switch-case
 - What is the syntax for an if/else conditional?
-  - > if (condition) {
-    >     ...
-    > } else {
-    >     ...
+  - > if (condition) {  
+    >     ...  
+    > } else {  
+    >     ...  
     > }
 - What is the syntax for a switch statement?
-  -> switch (expression) {
-   > case value1:
-   >   ...
-   >   break;
-   > case value2:
-   >   ...
-   >   break;
-   > default:
+  - > switch (expression) {  
+   > case value1:  
+   >   ...  
+   >   break;  
+   > case value2:  
+   >   ...  
+   >   break;  
+   > default:  
    > }
 - What is the syntax for a ternary operator?
   - (condition) ? true : false
