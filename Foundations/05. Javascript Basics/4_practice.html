@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fundamental 3</title>
+</head>
+
+<body>
+    <p>Open console log to see result</p>
+    <button>Show me</button>
+    
+    <script type="text/javascript">
+
+    const button = document.querySelector('button');
+    button.onclick = () => {
+    
+        let add7 = n => n + 7;
+        console.log(add7(5));
+
+        let multiply = (a, b) => a * b;
+        console.log(multiply(6, 9));
+
+        let capitalize = x => x[0].toUpperCase();
+        console.log(capitalize('beta'));
+
+        let lastLetter = z => z.trim()[z.trim().length - 1];
+        console.log(lastLetter('    hello   '));
+        console.log('  hello   '.trim().length);
+        let hell = '  hello   '.trim();
+        console.log(hell[4]);
+
+    }
+    </script>
+</body>
+
+</html>

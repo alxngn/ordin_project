@@ -12,12 +12,10 @@ function randomItem(arrayName) {
 function random(firstNum, secNum) {
 let num;
  if (firstNum < secNum) {
-  num = Math.floor(Math.random() * secNum);
-   while (num < firstNum) {
-   num = Math.floor(Math.random() * secNum);
-   }
+  // num = Math.floor(Math.random() * secNum) always gives from 0 to secNum exclusive
+  num = Math.floor(Math.random() * secNum) + firstNum;
  } else if (firstNum == secNum) {
- num = secNum;
+  num = secNum;
  } else {
   num = null;
   alert('Second number should be greater than first number!');

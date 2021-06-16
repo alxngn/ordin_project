@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"promt"
+			],
+			[
+				"top-",
+				"top-menu"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"para",
+				"paragraph"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"sublime.log_input(True)",
+			"sublime_plugin.ViewEventListener",
+			"sadf",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alex/Desktop/the_odin_project"
+	],
+	"file_history":
+	[
+		"/Users/alex/Desktop/the_odin_project/.gitignore",
+		"/Library/Preferences/Parallels/dispatcher.desktop.xml",
+		"/Users/alex/Desktop/the_odin_project/js.html",
+		"/Users/alex/Desktop/the_odin_project/testformat.html",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4. Fundamental - Part 3.md",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4_practice.html",
+		"/Users/alex/Desktop/the_odin_project/lib.js",
+		"/Users/alex/Desktop/the_odin_project/heroku/Procfile",
+		"/Users/alex/Desktop/the_odin_project/heroku/alive.html",
+		"/Users/alex/Desktop/the_odin_project/heroku/index.php",
+		"/Users/alex/Desktop/the_odin_project/heroku/.gitignore",
+		"/private/etc/hosts",
+		"/Users/alex/Desktop/the_odin_project/README.md",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4_ex1_function2.html",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/Fundamental - Part 2.md",
+		"/Users/alex/Desktop/the_odin_project/google-homepage/index.html",
+		"/Users/alex/Desktop/the_odin_project/google-homepage/main.css",
+		"/Users/alex/Desktop/the_odin_project/google-homepage/README.md",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/alex/Desktop/the_odin_project/google-homepage/index.min.html",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/html.sublime-build",
+		"/Users/alex/Desktop/the_ordin_project/.gitignore",
+		"/Users/alex/Desktop/the_ordin_project/google-homepage/index.html",
+		"/Users/alex/Desktop/the_ordin_project/google-homepage/README.md",
+		"/Users/alex/Library/Safari/TopSites.plist",
+		"/Users/alex/Desktop/html-css-js/scripts/main.js",
+		"/Users/alex/Desktop/ordin_project/README.md",
+		"/Users/alex/Desktop/py4e/theory.py",
+		"/Users/alex/Desktop/py4e/test.py",
+		"/Users/alex/Desktop/parallels.sh",
+		"/Users/alex/Desktop/py4e/summary.txt",
+		"/Users/alex/Desktop/py4e/ex_12/ex_12_03.py",
+		"/Users/alex/Desktop/py4e/ex_12/ex_12_01.py",
+		"/Users/alex/Desktop/py4e/ex_12/ex_12_05.py",
+		"/Users/alex/Desktop/py4e/ex_12/ex_12_02.py",
+		"/Users/alex/Desktop/py4e/py4e.sublime-project",
+		"/Users/alex/Desktop/py4e/code3/urllinks.py",
+		"/Users/alex/Desktop/py4e/code3/urllib2.py",
+		"/Users/alex/Desktop/hosts",
+		"/Users/alex/Desktop/py4e/ex_11/ex_11_01.py",
+		"/Users/alex/Desktop/py4e/ex_07_01/ex_07_02.py",
+		"/Users/alex/Desktop/py4e/ex_07_01/ex_07_03.py",
+		"/Users/alex/Desktop/py4e/ex_08/ex_08_02-03.py",
+		"/Users/alex/Desktop/py4e/ex_08/ex_08_05.py",
+		"/Users/alex/Desktop/py4e/ex_09/ex_09.py",
+		"/Users/alex/Desktop/py4e/ex_09/ex_09_02.py",
+		"/Users/alex/Desktop/py4e/ex_09/ex_09_03.py",
+		"/Users/alex/Desktop/py4e/ex_09/ex_09_04.py",
+		"/Users/alex/Desktop/py4e/ex_09/ex_09_05.py",
+		"/Users/alex/Desktop/py4e/ex_10/ex_10.py",
+		"/Users/alex/Desktop/py4e/ex_10/ex_10_01.py",
+		"/Users/alex/Desktop/py4e/ex_10/ex_10_02.py",
+		"/Users/alex/Desktop/py4e/ex_10/ex_10_03.py",
+		"/Users/alex/Desktop/py4e/ex_11/ex_11_02.py",
+		"/Users/alex/Desktop/py4e/ex_11/ex_11_03.py",
+		"/Users/alex/Desktop/py4e/code3/geodata.zip",
+		"/Users/alex/Desktop/py4e/ex_05_01/ex_05_01.py",
+		"/Users/alex/Desktop/py4e/first.py",
+		"/Users/alex/Desktop/py4e/ex_08/ex_08_06.py",
+		"/Users/alex/Desktop/py4e/ex_08/ex_08_04.py",
+		"/Users/alex/Desktop/py4e/mbox.txt",
+		"/Users/alex/Desktop/py4e/mbox-short.txt",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/alex/Desktop/py4e/ex_08/dow.py",
+		"/Users/alex/Desktop/py4e/ex_08/ex_08_01.py",
+		"/Users/alex/Desktop/py4e/ex_07_01/ex_07_01.py",
+		"/Users/alex/Desktop/py4e/ex_07_01/mbox-short.txt",
+		"/Users/alex/.zshrc",
+		"/Users/alex/Desktop/py4e/ex_03_01/ex_03_01.py",
+		"/Users/alex/Desktop/py4e/ex_06_05/ex_06_05.py",
+		"/Users/alex/Desktop/py4e/ex_04_06/ex_04_06.py",
+		"/Users/alex/Desktop/py4e/exx_05_01/ex_05_01.py",
+		"/Users/alex/Desktop/py4e/ex_03_02/ex_03_02.py",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/alex/Desktop/py4e/example.py",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/alex/.bash_profile"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 54.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/html.sublime-build",
+	"project": "the_odin_project.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
