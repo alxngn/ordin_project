@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"com",
+				"comScore"
+			],
+			[
+				"us",
+				"usrScore"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"play",
+				"playRound"
+			],
+			[
+				"fir",
+				"firstNum"
+			],
+			[
+				"ra",
+				"randomNumber"
+			],
+			[
 				"pro",
 				"promt"
 			],
@@ -72,6 +96,18 @@
 		"selected_items":
 		[
 			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
 				"instal",
 				"Package Control: Install Package"
 			],
@@ -84,16 +120,8 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
 				"Package Control: re",
 				"Package Control: Remove Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"package control",
@@ -115,6 +143,7 @@
 		"height": 186.0,
 		"history":
 		[
+			"git",
 			"sublime.log_commands(True)",
 			"sublime.log_input(True)",
 			"sublime_plugin.ViewEventListener",
@@ -133,24 +162,53 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/alex/Desktop/the_odin_project"
+		"/Users/alex/Desktop/the_odin_project",
+		"/Users/alex/Desktop/the_odin_project/Foundations",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/JavaScript30",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/JavaScript30/25 - Event Capture, Propagation, Bubbling and Once",
+		"/Users/alex/Desktop/the_odin_project/rock-paper-scissors"
 	],
 	"file_history":
 	[
+		"/Users/alex/Desktop/opencore-upgrade-fixed.plist",
+		"/Users/alex/Desktop/the_odin_project/rock-paper-scissors/index.html",
+		"/Users/alex/Desktop/the_odin_project/rock-paper-scissors/main.js",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/JavaScript30/01 - JavaScript Drum Kit/index-START.html",
+		"/Users/alex/Desktop/the_odin_project/rock-paper-scissors/README.md",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/tempConversion/tempConversion.js",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/10. DOM Manipulation.md",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/10_ex1.html",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/tempConversion/tempConversion.spec.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/leapYears/leapYears.spec.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/leapYears/leapYears.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/removeFromArray/removeFromArray.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/sumAll/sumAll.spec.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/sumAll/sumAll.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/removeFromArray/removeFromArray.spec.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/reverseString/reverseString.spec.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/reverseString/reverseString.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/repeatString/repeatString.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/repeatString/repeatString.spec.js",
+		"/Users/alex/Desktop/the_odin_project/javascript-exercises/helloWorld/helloWorld.js",
 		"/Users/alex/Desktop/the_odin_project/.gitignore",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/8. Clean code.md",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4_ex1_function2.html",
+		"/Users/alex/Desktop/the_odin_project/README.md",
+		"/Users/alex/Desktop/the_odin_project/lib.js",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/5. Problem solving.md",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/6. Understanding errors.md",
 		"/Library/Preferences/Parallels/dispatcher.desktop.xml",
+		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/number-game-errors.html",
 		"/Users/alex/Desktop/the_odin_project/js.html",
 		"/Users/alex/Desktop/the_odin_project/testformat.html",
 		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4. Fundamental - Part 3.md",
 		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4_practice.html",
-		"/Users/alex/Desktop/the_odin_project/lib.js",
 		"/Users/alex/Desktop/the_odin_project/heroku/Procfile",
 		"/Users/alex/Desktop/the_odin_project/heroku/alive.html",
 		"/Users/alex/Desktop/the_odin_project/heroku/index.php",
 		"/Users/alex/Desktop/the_odin_project/heroku/.gitignore",
 		"/private/etc/hosts",
-		"/Users/alex/Desktop/the_odin_project/README.md",
-		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/4_ex1_function2.html",
 		"/Users/alex/Desktop/the_odin_project/Foundations/05. Javascript Basics/Fundamental - Part 2.md",
 		"/Users/alex/Desktop/the_odin_project/google-homepage/index.html",
 		"/Users/alex/Desktop/the_odin_project/google-homepage/main.css",
@@ -222,9 +280,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 114.0,
+		"height": 117.0,
 		"where_history":
 		[
+			"<current file>",
+			""
 		]
 	},
 	"find_state":
@@ -232,13 +292,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<data>\\n(\t*)(.*)\\n.*</data>",
+			"<data>\\n(.*)\\n.*</data>",
+			"<data>\\n(.*)\\n(.*)</data>",
+			"\\<data\\>(.*)\\</data\\>",
+			"\\<data\\>\\n(.*)\\n\\</data\\>",
+			"<data>\\n(.*)\\n</data>",
+			".skip",
+			"<usb>"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"<data>$2</data>",
+			"<data>$1</data>",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -293,6 +364,10 @@
 	{
 		"height": 0.0
 	},
+	"output.markdown":
+	{
+		"height": 157.0
+	},
 	"pinned_build_system": "Packages/User/html.sublime-build",
 	"project": "the_odin_project.sublime-project",
 	"replace":
@@ -335,7 +410,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 171.0,
+	"side_bar_width": 264.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
